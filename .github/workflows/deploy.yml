@@ -44,7 +44,8 @@ jobs:
 
       - name: Build static site
         run: npm run build
-
+        env:
+	        BASE_URL: /coffee-shop/
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
