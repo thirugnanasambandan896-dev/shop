@@ -1,0 +1,6 @@
+{
+  "name": "Atelier & Co. | Curated Lifestyle Store",
+  "description": "Artisanal lifestyle goods, architectural lighting, acoustics, and apothecary essentials with shopping bag, checkout tracking, and shop inventory management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
